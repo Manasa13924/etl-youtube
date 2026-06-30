@@ -12,8 +12,3 @@ wordcloud
 google-generativeai
 
 
-AIzaSyBzQUEyMIzDDHzVU8o6txLO_VRP2bKHbeU
-
-
-backup 
-AIzaSyA7PLQByTuxJoCFasBZAjN3rB0__TboQ1k
